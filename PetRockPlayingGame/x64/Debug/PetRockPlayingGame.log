@@ -1,0 +1,23 @@
+﻿  PetRockPlayingGame.cpp
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(543,25): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(544,29): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(545,34): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(584,27): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(585,20): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(586,25): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(626,27): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(627,20): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(628,25): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(668,27): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(669,20): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(670,25): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(692,31): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(693,24): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(694,29): warning C4552: '*': result of expression not used
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(770,13): warning C4101: 'answer': unreferenced local variable
+C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\PetRockPlayingGame.cpp(782,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  character.cpp
+  fight.cpp
+  enemy.cpp
+  Generating Code...
+  PetRockPlayingGame.vcxproj -> C:\Users\samue\OneDrive\Desktop\Coding\PetRockPlayingGame\x64\Debug\PetRockPlayingGame.exe

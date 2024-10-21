@@ -1,0 +1,11 @@
+﻿  PetRockPlayingGame.cpp
+C:\Users\iD Student\source\repos\PetRockPlayingGame\PetRockPlayingGame.cpp(101,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\iD Student\source\repos\PetRockPlayingGame\PetRockPlayingGame.cpp(409,5): warning C4129:  '	': unrecognized character escape sequence
+C:\Users\iD Student\source\repos\PetRockPlayingGame\PetRockPlayingGame.cpp(410,5): warning C4129:  ' ': unrecognized character escape sequence
+C:\Users\iD Student\source\repos\PetRockPlayingGame\PetRockPlayingGame.cpp(446,49): warning C4305:  '+=': truncation from 'unsigned __int64' to 'int'
+C:\Users\iD Student\source\repos\PetRockPlayingGame\PetRockPlayingGame.cpp(447,42): warning C4305:  '+=': truncation from 'unsigned __int64' to 'int'
+C:\Users\iD Student\source\repos\PetRockPlayingGame\PetRockPlayingGame.cpp(448,47): warning C4305:  '+=': truncation from 'unsigned __int64' to 'int'
+C:\Users\iD Student\source\repos\PetRockPlayingGame\PetRockPlayingGame.cpp(449,40): warning C4305:  '+=': truncation from 'unsigned __int64' to 'int'
+C:\Users\iD Student\source\repos\PetRockPlayingGame\PetRockPlayingGame.cpp(466,49): warning C4305:  '-=': truncation from 'unsigned __int64' to 'int'
+C:\Users\iD Student\source\repos\PetRockPlayingGame\PetRockPlayingGame.cpp(543,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  PetRockPlayingGame.vcxproj -> C:\Users\iD Student\source\repos\PetRockPlayingGame\Debug\PetRockPlayingGame.exe
